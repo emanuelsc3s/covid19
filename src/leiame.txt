@@ -1,1 +1,1 @@
-
+/src: contém os scripts Python para o pré-processamento dos dados, treinamento dos modelos e avaliação dos resultados.
