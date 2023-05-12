@@ -1,6 +1,6 @@
 # Projeto de Predição da Gravidade da COVID-19 com Machine Learning
 
-Este repositório contém todo o código-fonte Python e materiais relacionados ao projeto de mestrado "Abordagem Baseada em Machine Learning para Predição da Gravidade de Casos de COVID-19". 
+Este repositório contém todo o código-fonte Python e materiais relacionados ao projeto de Mestrado Profissional em Engenharia de Software "Abordagem Baseada em Machine Learning para Predição da Gravidade de Casos de COVID-19". 
 
 O objetivo do projeto é desenvolver um modelo computacional de inteligência artificial com o potencial de auxiliar na predição da gravidade da COVID-19, fornecendo uma base para futuras ferramentas de suporte à avaliação clínica para os profissionais da saúde.
 
